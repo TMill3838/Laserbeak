@@ -5,7 +5,7 @@
 
 body {
   /* font-family: Arial, sans-serif; */
-    font-family: "Workbench", sans-serif;
+  font-family: "Workbench", sans-serif;
   margin: 20px;
   background-color: #000000;
 }
@@ -50,7 +50,7 @@ li {
 }
 
 .login-container {
-  background-color: #fff;
+  background-color: #000000;
   padding: 20px;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(8, 189, 140, 0.1);
@@ -76,7 +76,7 @@ input[type="password"] {
 
 .btn-login {
   background-color: #28a745;
-  color: white;
+  color: black;
   padding: 10px;
   border: none;
   border-radius: 5px;
